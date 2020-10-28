@@ -1,0 +1,11 @@
+C:\Users\mzvuc\source\repos\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\mzvuc\source\repos\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\mzvuc\source\repos\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\mzvuc\source\repos\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\mzvuc\source\repos\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\mzvuc\source\repos\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\mzvuc\source\repos\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\mzvuc\source\repos\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\mzvuc\source\repos\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\mzvuc\source\repos\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\mzvuc\source\repos\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
